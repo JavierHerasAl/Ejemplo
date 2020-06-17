@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Prueba WebGLMobile",
+"productVersion": "0.1",
+"dataUrl": "UltimaPrueba.data.unityweb",
+"wasmCodeUrl": "UltimaPrueba.wasm.code.unityweb",
+"wasmFrameworkUrl": "UltimaPrueba.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#006C19",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.21f1"
+}
